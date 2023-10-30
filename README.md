@@ -16,7 +16,7 @@ Looking at the Google Search Trends we can stipulate that Solar Panels have made
 | :-------- | :------- | :-------------------------------- |
 | Joab Eliot G | 211520243022 | [![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/joabeliot)) |
 | Joshee V Y      | 211520243023 | [![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/naveensaye)) |
-| Sai Rhaghav R S   | 211520243048 | [![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhilanraju) |
+| Sai Rhaghav R S   | 211520243048 | [![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sairhaghav) |
 | Jagadeesh     | 211520243020 | [![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jagadeeshkl) |
 
 
