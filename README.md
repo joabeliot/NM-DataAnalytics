@@ -1,5 +1,5 @@
 
-# Naan Mudhalvan
+# Naan Mudhalvan Data Analytics
 ## Solar Panel Data Analytics
 In this modern world, The awareness to use solar panel has been increasing 
 
